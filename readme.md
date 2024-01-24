@@ -8,6 +8,10 @@
 - 1.3. Install trsfile python package
 - 1.5. Install skitlearn
 - 1.6. Install numpy
+- 1.7. Download the traces dataset
+
+### Downloading the traces dataset
+Traces dataset is in a single file (TRS extension) you can download from [here](https://drive.google.com/file/d/1_N0S6lUC7ndGdgzkv1_9tVi0OznOmJVM/view?usp=sharing)
 
 ### Note 0: 
 Check python vervion: Open a terminal, type: `python --version`. You should see the info regarding python interpreter
